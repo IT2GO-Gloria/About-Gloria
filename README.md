@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IT2GO-Gloria (Gloria Johnston)
+- 👀 I’m interested in AI, IT, being outdoors.
+- 💞️ I’m looking to collaborate on projects that will expand on my skills/knowledge.
+- 📫 How to reach me at GL.Johnston@protonmail.com
