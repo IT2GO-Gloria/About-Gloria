@@ -1,5 +1,5 @@
 - Hi, I’m @IT2GO-Gloria
 - I’m interested in Artificial Intelligence and Technology.
 - I’m looking to collaborate on projects that will expand on my skills/knowledge.
-- I am a software engineer, with a concentration in Java, Maven, HTML, CSS, Javascript,     Angular and Postgres SQL. 
+- I am a software engineer, with a concentration in Java, Maven, HTML, CSS, Javascript,     Angular and Postgres SQL. I also have had Web Development training in: HTML, CSS,         JavaScript, Node, Express, Mongo DB, Code Pen, Visual Studio Code, Eclipse IDE and more.
 - You can reach me at gloria.johnston@revature.net
