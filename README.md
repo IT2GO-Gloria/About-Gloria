@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @IT2GO-Gloria
-- 👀 I’m interested in AI, IT, being outdoors.
-- 💞️ I’m looking to collaborate on projects that will expand on my skills/knowledge.
-- 📫 How to reach me at gloria.johnston@revature.net
+- Hi, I’m @IT2GO-Gloria
+- I’m interested in Artificial Intelligence and Technology.
+- I’m looking to collaborate on projects that will expand on my skills/knowledge.
+- I am a software engineer, with a concentration in Java, Maven, HTML, CSS, Javascript,     Angular and Postgres SQL. 
+- You can reach me at gloria.johnston@revature.net
