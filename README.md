@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IT2GO-Gloria
 - 👀 I’m interested in AI, IT, being outdoors.
 - 💞️ I’m looking to collaborate on projects that will expand on my skills/knowledge.
-- 📫 How to reach me at CodingEngineers@protonmail.com
+- 📫 How to reach me at gloria.johnston@revature.net
